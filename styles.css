@@ -15,9 +15,9 @@ body{
 }
 .price{
     background-color: #2ecc71;
-    border: 1px solid black;
+    border: 1px ;
     color: white;
-    width: 90%;
+    width: 100%;
     text-align: center;
 
 }
